@@ -33,7 +33,7 @@
   width: 20%;
   padding: 15px;
   margin-top: 7px;
-  text-align: center;
+  text-align: left;
 }
 
 @media only screen and (max-width: 620px) {
@@ -61,6 +61,9 @@
 <!-- Make this part have images -->
 
   <div class="main">
+  h1{ 
+    color: orange;
+    }
     <h2>Lorum Ipsum</h2>
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
   </div>
