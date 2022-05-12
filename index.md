@@ -47,16 +47,18 @@
 <body style="font-family:Verdana;color:#aaaaaa;">
 
 <div style="background-color:#e5e5e500;padding:15px;text-align:left;">
-  <h1>Hello World</h1>
+  <h1>Source 2</h1>
 </div>
 
 <div style="overflow:auto">
   <div class="menu">
-    <a href="#">Link 1</a>
+    <a href="#">Half Life 2: Episode 1 Level Recreation</a>
     <a href="#">Link 2</a>
     <a href="#">Link 3</a>
     <a href="#">Link 4</a>
   </div>
+
+<!-- Make this part have images -->
 
   <div class="main">
     <h2>Lorum Ipsum</h2>
@@ -65,7 +67,7 @@
 
   <div class="right">
     <h2>About</h2>
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+    <p>I'm a Kansas based game devloper person.</p>
   </div>
 </div>
 
