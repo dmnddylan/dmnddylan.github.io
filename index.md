@@ -13,7 +13,7 @@
 }
 
 .menu a {
-  background-color: #e5e5e5;
+  background-color: #e5e5e500;
   padding: 8px;
   margin-top: 7px;
   display: block;
@@ -28,7 +28,7 @@
 }
 
 .right {
-  background-color: #e5e5e5;
+  background-color: #e5e5e500;
   float: left;
   width: 20%;
   padding: 15px;
@@ -46,7 +46,7 @@
 </head>
 <body style="font-family:Verdana;color:#aaaaaa;">
 
-<div style="background-color:#e5e5e5;padding:15px;text-align:center;">
+<div style="background-color:#e5e5e500;padding:15px;text-align:left;">
   <h1>Hello World</h1>
 </div>
 
@@ -68,8 +68,6 @@
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
   </div>
 </div>
-
-<div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;">© copyright w3schools.com</div>
 
 </body>
 </html>
