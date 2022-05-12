@@ -8,7 +8,7 @@
 
 .menu {
   float: left;
-  width: 20%;
+  width: 35%;
   text-align: center;
 }
 
@@ -23,7 +23,7 @@
 
 .main {
   float: left;
-  width: 60%;
+  width: 45%;
   padding: 0 20px;
 }
 
